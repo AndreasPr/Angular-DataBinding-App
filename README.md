@@ -1,5 +1,5 @@
 In Angular-DataBinding-App, we are able to see the interaction of the components and databinding features among them.
-Specifially, all of the following are presented: 
+Specifically, all of the following are presented: 
 - Property Binding
 - Event Binding
 - Assigning an Alias to custom properties
